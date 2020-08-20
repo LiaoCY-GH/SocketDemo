@@ -1,0 +1,3 @@
+include ':SocketService'
+include ':app'
+rootProject.name = "SocketDemo"
